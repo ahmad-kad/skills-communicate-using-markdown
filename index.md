@@ -7,8 +7,11 @@
 ###### Header 6
 
 
+### Add Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+
+### Add Codeblock
 ``` python
 public static int zeroBinSearch(int[] a, int[] b){
         int left = 0;
@@ -31,3 +34,9 @@ public static int zeroBinSearch(int[] a, int[] b){
         return -1;
     }
 ```
+
+### Add task list
+
+- [ ] Get Data
+- [ ] Train Model
+- [ ] Profit
